@@ -9,6 +9,7 @@
   "author": "David Biderman",
   "license": "ISC",
   "dependencies": {
-    "redis": "^2.8.0"
+    "redis": "^2.8.0",
+    "winston": "^3.1.0"
   }
 }
