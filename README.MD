@@ -1,1 +1,11 @@
 CYBER 2.0 PROJECT
+------------------
+
+Required environment variables:
+REDIS => REDIS ENDPOINT ADDRESS.
+TIMEOUT => THE DESIRED TIMEOUT BETWEEN CHECKS.
+THRESHOLD => THE ACCEPTABLE THRESHOLD UNDER WHICH A REQUEST IS CONSIDERED VALID
+
+TO RUN
+-----
+run npm start to install deps and start tester

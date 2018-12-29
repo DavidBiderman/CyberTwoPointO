@@ -2,8 +2,9 @@
   "name": "cybertwopointo",
   "version": "1.0.0",
   "description": "example project for Cyber 2.0",
-  "main": "index.js",
+  "main": "simpleportscanner.js",
   "scripts": {
+    "start": "npm install && node simpleportscanner.js",
     "test": "npm test"
   },
   "author": "David Biderman",
