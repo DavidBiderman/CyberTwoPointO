@@ -1,0 +1,11 @@
+{
+  "name": "cybertwopointo",
+  "version": "1.0.0",
+  "description": "example project for Cyber 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "David Biderman",
+  "license": "ISC"
+}
